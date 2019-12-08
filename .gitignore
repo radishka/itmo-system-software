@@ -1,3 +1,5 @@
 .idea
 *.iml
 ignore/
+reports/
+cmake-build-debug/
